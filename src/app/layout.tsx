@@ -24,9 +24,9 @@ export default function RootLayout({
                             <Link href="/" className="text-2xl font-semibold">🐾 Pawsly</Link>
                             <nav>
                                 <ul className="flex space-x-4">
-                                    <li><Link href="/explore" className="hover:underline">Learn</Link></li>
-                                    <li><Link href="/explore" className="hover:underline">Safety</Link></li>
-                                    <li><Link href="/explore" className="hover:underline">Support</Link></li>
+                                    <li><Link href="/login" className="hover:underline">Learn</Link></li>
+                                    <li><Link href="/login" className="hover:underline">Safety</Link></li>
+                                    <li><Link href="/login" className="hover:underline">Support</Link></li>
                                 </ul>
                             </nav>
                         </div>
